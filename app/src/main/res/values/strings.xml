@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+    <string name="popmovies">Popular Movies</string>
+    <string name="stock">Stock Hawk</string>
+    <string name="bib">Build It Bigger</string>
+    <string name="makematerial">Make Your App Material</string>
+    <string name="ubiquitous">Go Ubiquitous</string>
+    <string name="capstone">Capstone</string>
+</resources>
